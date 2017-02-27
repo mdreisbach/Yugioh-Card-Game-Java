@@ -1,5 +1,6 @@
 # Yugioh-Card-Game-Java
 Yu-Gi-Oh card game made in Java
+***My final project for OOPDA(object oriented programming with data abstractions)***
 
     Yu-Gi-Oh Card Game Java
     Copyright (C) 2017 Miles Dreisbach
